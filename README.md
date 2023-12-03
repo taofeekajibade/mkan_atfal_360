@@ -2,7 +2,7 @@
 
 - The Atfal 360 solution is designed to facilitate officers in efficiently accessing and managing information related to Atfal members. It provides a comprehensive set of features to view, filter, and analyse data, ensuring a seamless experience for users.
 # Feature List:
-**  2.1 View Atfal Members **
+**2.1 View Atfal Members**
 - Description: Users should be able to view a list of Atfal members.**
 - Filters:
     - Name
@@ -13,7 +13,7 @@
 - Expected Behavior:
     - Display a list of Atfal members based on the selected filters.
 ***
-** 2.2 Dashboard with Statistics **
+**2.2 Dashboard with Statistics**
 - Description: Users should have access to a dashboard that provides statistical insights into Atfal members based on age range.
 - Age Range Categories:
     - Preschool (0-5)
@@ -26,7 +26,7 @@
 - Visualisation:
     - Graphical representation of statistics for quick analysis.
 ***
-** 2.3 Downloa Member Informtion **
+**2.3 Downloa Member Informtion**
 - Description: Users should be able to download Atfal member information based on applied filters.
 - Download Format:
     - CSV or Excel format for easy compatibility.
@@ -35,14 +35,14 @@
 - Security Measures:
     - Ensure data security during the download process.
 ***
-** 2.4 Read-only Application **
+**2.4 Read-only Application**
 - Description: The application is designed to be read-only, limiting user interactions to viewing and downloading information without the ability to modify data.
 - User Permissions:
     - Read-only access to maintain data integrity.
 - User Interface:
     - Clearly indicate that the application is read only to avoid confusion.
 ***
-3. ** Additional Considerations: **
+3. **Additional Considerations:**
 - User Training:
     - Provide user training materials to ensure effective use of the application.
 - Feedback Mechanism:
@@ -52,6 +52,3 @@
 ***
 4. Conclusion:
 The Atfal 360's "View Atfal Information" feature aims to streamline the process of accessing and managing data related to Atfal members. By providing a user-friendly interface with powerful filtering options, a statistical dashboard, and the ability to download information securely, the solution enhances the overall efficiency of officers in their responsibilities.
-
-
-
